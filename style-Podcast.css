@@ -1,0 +1,71 @@
+h1{
+    font-size: 30px;
+    display: bottom;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(243, 22, 243);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    margin-left: 40px;
+    margin-right: 40px;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: rgb(202, 235, 18);
+  }
+  .row {
+      text-align: center;
+  }
+  .intro p {
+      line-height: 40px;
+  }
+.recomm p{
+    color:blueviolet;
+    font-size: 20px;
+    line-height: 50px ;
+    margin-top: 0mm;
+    margin-bottom: 0mm;
+}
+.border{
+    float: left;
+    width: 40%;
+    margin-left: 25mm;
+ }
+ .meun p {
+    line-height: 40px;
+}
+.container{
+    display: block;
+    background-color: rgb(94, 63, 63);  
+    clear: both;  
+}
+.container p{
+    text-align:center;
+    color: cornsilk;
+}
+.container a{
+    float: left;
+    color: cornsilk;
+    margin-left: 40mm;
+    font-size: 14px;
+}
+.container p1{
+    color: cornsilk;
+}
+.update a{
+    color: mediumslateblue;
+    line-height: 40px;
+}
